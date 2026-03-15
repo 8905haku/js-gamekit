@@ -17,7 +17,7 @@ A lightweight JavaScript game framework for building 2D games with HTML5 Canvas.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/js-gamekit.git
+git clone https://github.com/8905haku/jsgk.git
 ```
 
 
